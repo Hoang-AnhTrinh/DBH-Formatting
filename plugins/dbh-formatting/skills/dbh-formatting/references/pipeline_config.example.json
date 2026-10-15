@@ -1,0 +1,24 @@
+{
+  "version": "0.1",
+  "project_code": "PROJECT-001",
+  "project_name": "Replace with the confirmed project name",
+  "inputs": {
+    "structure_pdf": "C:/path/to/structural-drawing.pdf",
+    "excel_template": null,
+    "email_pdf": null
+  },
+  "page_policy": "default_page_policy.json",
+  "output_dir": "work/pipeline_output",
+  "runtime": {
+    "python": null,
+    "node": null,
+    "node_modules": null
+  },
+  "render": {
+    "deep_dpi": 150,
+    "metadata_dpi": null,
+    "pdftoppm": null
+  },
+  "excel_mapping_config": null
+}
+

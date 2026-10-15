@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "dbh-formatting",
+  "version": "1.0.2",
+  "description": "Build a local JSON-first DB Head formatting pipeline for Japanese structural PDFs and Excel templates.",
+  "author": {
+    "name": "Anh Trinh",
+    "url": "https://github.com/Hoang-AnhTrinh"
+  },
+  "homepage": "https://github.com/Hoang-AnhTrinh/DBH-Formatting",
+  "repository": "https://github.com/Hoang-AnhTrinh/DBH-Formatting",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "skill",
+    "pdf",
+    "excel",
+    "structural-engineering",
+    "japanese-documents"
+  ]
+}
+

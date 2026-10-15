@@ -1,0 +1,4 @@
+display_name: DBH-Formatting
+short_description: Create JSON caches from structural PDFs and prepare Excel mapping.
+default_prompt: Run the DBH-Formatting pipeline for the provided structural PDF and Excel template. Use approved email file names only when needed for dates, then report timing, review items, and next mapping steps.
+

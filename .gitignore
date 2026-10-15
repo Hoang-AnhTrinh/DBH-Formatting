@@ -1,0 +1,25 @@
+# Runtime outputs and caches
+work/
+pipeline_output/
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+
+# User inputs and generated workbooks
+*.pdf
+*.xls
+*.xlsx
+*.xlsm
+
+# Local configuration and secrets
+.env
+.env.*
+*.local.json
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

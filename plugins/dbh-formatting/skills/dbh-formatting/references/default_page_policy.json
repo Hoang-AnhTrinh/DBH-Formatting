@@ -1,0 +1,20 @@
+{
+  "version": "0.2",
+  "source_document": "path/to/structural-drawing.pdf",
+  "note": "Neutral example only. Replace every example entry with drawing metadata confirmed for the current project.",
+  "default_deep_mode": {
+    "preserve": ["page_metadata", "vector_or_native_text", "page_image"],
+    "ocr": "selective_regions_only",
+    "json_records": true
+  },
+  "default_metadata_mode": {
+    "preserve": ["page_metadata"],
+    "ocr": false,
+    "json_records": false
+  },
+  "pages": [
+    {"drawing_no": "EXAMPLE-01", "drawing_name": "REPLACE_WITH_CONFIRMED_DRAWING_NAME", "mode": "deep_processing"},
+    {"drawing_no": "EXAMPLE-02", "drawing_name": "REPLACE_WITH_CONFIRMED_DRAWING_NAME", "mode": "metadata_only"}
+  ]
+}
+
